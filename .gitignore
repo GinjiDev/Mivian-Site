@@ -1,2 +1,9 @@
 /.vscode
-/.gitignore
+*.buildinfo
+*.mp3
+*.m4a
+*.wav
+*.png
+*.jpg
+*.flac
+*.mo
