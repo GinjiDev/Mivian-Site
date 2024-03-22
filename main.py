@@ -3,7 +3,6 @@ from flask import Flask, render_template, request, jsonify, Response
 from functools import wraps
 
 #web-server
-
 app = Flask(__name__)
 app.secret_key = '8934GJ34JE'
 
