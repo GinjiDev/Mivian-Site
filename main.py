@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.secret_key = '8934GJ34JE'
 
 api_passwords = {
-    'root': '9935HK35KF'
+    'user': '9935HK35KF'
 }
 
 def check_auth(username, password):
