@@ -1,4 +1,4 @@
-# <p align="center">MivianBot-site</p>
+# <p align="center">Mivian-site</p>
 
 <p align="center">
     <img src="banner.jpg">
