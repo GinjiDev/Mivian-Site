@@ -6,10 +6,10 @@ from functools import wraps
 #web-server
 
 app = Flask(__name__)
-app.secret_key = ''
+app.secret_key = '8934GJ34JE'
 
 api_passwords = {
-    'root': ''
+    'root': '9935HK35KF'
 }
 
 def check_auth(username, password):
