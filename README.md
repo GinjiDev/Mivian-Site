@@ -1,6 +1,8 @@
 # MivianBot-site
 
-![MivianBot](banner.jpg)
+<p align="center">
+    <img src="banner.jpg">
+</p>
 
 ## Описание
 
