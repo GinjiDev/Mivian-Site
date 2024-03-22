@@ -1,6 +1,6 @@
 # MivianBot-site
 
-![MivianBot](banner.png)
+![MivianBot](banner.jpg)
 
 ## Описание
 
