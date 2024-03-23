@@ -23,6 +23,6 @@
 
 [Ссылка на бота Mivian в Discord](https://discord.com/oauth2/authorize?client_id=867370837249490974&permissions=8&scope=bot)
 
-## Автор
+## Авторы
 
-GinjiDev
+GinjiDev, MrLuter
