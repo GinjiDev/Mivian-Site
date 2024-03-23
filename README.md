@@ -1,7 +1,7 @@
 # <p align="center">Mivian-site</p>
 
 <p align="center">
-    <img src="images/banner.jpg">
+    <img src="static/images/banner.jpg">
 </p>
 
 ## Описание
