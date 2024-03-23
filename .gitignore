@@ -1,4 +1,6 @@
-/.vscode
+__pycache__
+.vscode
+.env
 *.buildinfo
 *.mp3
 *.m4a
