@@ -1,6 +1,7 @@
 __pycache__
 .vscode
 .env
+main.py
 *.buildinfo
 *.mp3
 *.m4a
