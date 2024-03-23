@@ -10,3 +10,6 @@ main.py
 *.jpg
 *.flac
 *.mo
+
+*.bd
+*.db
